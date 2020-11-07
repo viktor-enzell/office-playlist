@@ -17,11 +17,11 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.7",
     "mongoose": "^5.7.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.0",
     "spotify-web-api-node": "^4.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.2"
+    "nodemon": "^2.0.6"
   }
 }
